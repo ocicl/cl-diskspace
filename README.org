@@ -1,0 +1,10 @@
+* cl-diskspace
+
+A Common Lisp feature to list disks with command line tool df(Linux/Mac) or GetLogicalDrives(Windows), and get disk space information using statvfs(Unix/Linux/Mac) or GetDiskFreeSpace(Windows), supports Unix/Linux/Mac/Windows.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/muyinliu/cl-diskspace.git   |
+| commit  | 2dce2d0  |
+| systems | cl-diskspace |
+|---------+-------------------------------------------|
+
